@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+pyttsx3
+requests
+pillow
